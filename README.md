@@ -35,5 +35,7 @@ Future Work
 Future work may include further refinement and enhancement of the model to improve its performance and utility in real-world scenarios. Additionally, integration with real estate platforms and deployment as a web service could enhance accessibility and usability.
 
 Contributors
+
 Sachin Suthar
+
 Manish Meena
