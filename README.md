@@ -37,4 +37,5 @@ Future work may include further refinement and enhancement of the model to impro
 Contributors
 
 Sachin Suthar
+
 Manish Meena
